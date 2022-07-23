@@ -1,5 +1,7 @@
 # FreeRTOS-Fire-Detection-System
 
+## NOTE : this project requires Arduino FreeRTOS library installed on Arduino IDE.
+
 ## Microcontroller Boards
 1. Arduino Mega2560
 
